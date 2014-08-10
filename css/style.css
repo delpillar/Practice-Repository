@@ -1,0 +1,13 @@
+body {
+	background-color: green;
+	font-family: "Lucida Console";
+}
+
+h1 {
+	font-size: 50px;	
+	color: #ffa500;
+}
+
+ul li {
+	color: #ff9999;
+}
